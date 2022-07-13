@@ -43,6 +43,20 @@ Ryuji Iwata（[@qt_luigi](https://twitter.com/qt_luigi)）
 
 ## タイトル
 
+VS CodeでもGitKraken
+
+## 登壇者
+
+[@ryosms](https://twitter.com/ryosms) / GitKraken Ambassador
+
+## 概要
+
+GitLensがGitKraken製になったので、「これはアンバサダーとして試してみにゃイカンでしょ」と重い腰を上げました。
+
+***
+
+## タイトル
+
 Djangoで学ぶ敬語
 
 ## 登壇者

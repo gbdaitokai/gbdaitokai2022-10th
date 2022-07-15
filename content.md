@@ -16,6 +16,20 @@ hmatsu47(まつ)（[@hmatsu47](https://twitter.com/hmatsu47)）
 
 ## タイトル
 
+VS Code Remote Containerによるリモート開発のご紹介
+
+## 登壇者
+
+せとあず（[@setoazusa](https://twitter.com/setoazusa)）
+
+## 概要
+
+VS CodeのRemote Development機能ではSSH、WSLなど、様々な環境にリモート接続して開発を行う事ができます。今回はRemote Container機能でのDockerコンテナー上でのリモート開発をご紹介します。
+
+***
+
+## タイトル
+
 FaaSなAzure FunctionsのGo紹介
 
 ## 登壇者
@@ -108,15 +122,3 @@ Djangoで学ぶ敬語
 ## 概要
 
 「E2Eテスト...、、知ってる、あの辛いやつでしょ...」とか思ってたけど、自社製品を触ったらびっくりしたから、それをみなさんにも紹介しますね！
-
-## タイトル
-
-VS Code Remote Containerによるリモート開発のご紹介
-
-## 登壇者
-
-せとあず（[@setoazusa](https://twitter.com/setoazusa)）
-
-## 概要
-
-VS CodeのRemote Development機能ではSSH、WSLなど、様々な環境にリモート接続して開発を行う事ができます。今回はRemote Container機能でのDockerコンテナー上でのリモート開発をご紹介します。
